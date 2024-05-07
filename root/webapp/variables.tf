@@ -1,0 +1,3 @@
+variable "resourcegroupname" {
+  type = string
+}
